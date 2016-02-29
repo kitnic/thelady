@@ -391,7 +391,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Board details:\nName: The Lady\nRevision: first\nDescription: A ladybug fun soldering kit \nLicense: MIT\nCompany: Boldport\nDesigner: Saar Drimer, saar@boldport.com"
+      "value": "Board details:\nName: The Lady\nRevision: first\nDescription: A ladybird fun soldering kit \nLicense: MIT\nCompany: Boldport\nDesigner: Saar Drimer, saar@boldport.com"
     }, 
     "manufacturing": {
       "font-family": "Overlock-Regular-OTF-webfont", 
