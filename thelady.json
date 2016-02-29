@@ -144,10 +144,10 @@
       "footprint": "10mm-led", 
       "layer": "top", 
       "location": [
-        6.5761555, 
-        14.477117
+        6.57616, 
+        14.477122
       ], 
-      "rotate": 200, 
+      "rotate": 289.782415, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -159,10 +159,10 @@
       "footprint": "10mm-led", 
       "layer": "top", 
       "location": [
-        -6.3721181, 
-        12.353182
+        -6.280783, 
+        12.301091
       ], 
-      "rotate": 0, 
+      "rotate": 281.121078, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -339,7 +339,7 @@
       "layer": "bottom", 
       "location": [
         0, 
-        8.855667
+        9.984556
       ], 
       "rotate": 0, 
       "show": true, 
