@@ -45,9 +45,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="496.95884"
-     inkscape:cy="420.94572"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="358.99072"
+     inkscape:cy="537.7606"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,10 +86,11 @@
          id="tspan4250"
          sodipodi:role="line">cut</tspan></text>
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.17716535;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 242.84935,301.96879 0,92.16016 -23.5918,9.57812 c -0.63378,0.28172 -0.97266,0.69348 -0.97266,1.63672 l 0,172.13086 c 0,0.89284 0.3722,1.46109 0.97461,1.72851 l 23.58985,9.58008 0,92.15821 293.93359,0 0,-378.97266 -293.93359,0 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.17716534;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 242.84935,301.96879 0,104.16016 -21.5918,9.57812 c -0.63378,0.28172 -0.97266,0.69348 -0.97266,1.63672 l 0,148.13086 c 0,0.89284 0.3722,1.46109 0.97461,1.72851 l 21.58985,9.58008 0,104.15821 293.93359,0 0,-378.97266 z"
        id="rect3501"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsscccccc" />
     <g
        id="g4323"
        transform="translate(8.1925872,80.000026)">
@@ -160,9 +161,9 @@
     </g>
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17716534;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 356.29901,528.88769 c -13.37337,0 -25.73087,-7.13461 -32.41755,-18.71629 -6.68668,-11.58167 -6.68668,-25.85089 0,-37.43256 6.68668,-11.58168 19.04418,-18.71629 32.41755,-18.71629"
+       d="m 298.86645,454.02255 c 0.0549,0 8.10986,1.2e-4 8.16476,3.6e-4 13.31004,0.0583 25.59358,7.18183 32.25279,18.71593 6.68668,11.58167 6.68668,25.85089 0,37.43256 -6.64805,11.51477 -18.90159,18.63371 -32.18588,18.71558 -0.0772,4.7e-4 -8.15441,7.1e-4 -8.23167,7.1e-4"
        id="path5315"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssc" />
+       sodipodi:nodetypes="cssssc" />
   </g>
 </svg>
