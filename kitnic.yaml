@@ -1,0 +1,4 @@
+summary: A ladybird fun soldering kit
+site: http://www.boldport.com/blog/2015/10/21/the-buggy
+gerbers: build/production/
+bom: build/bom/1-click-bom.tsv
